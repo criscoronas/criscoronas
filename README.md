@@ -1,4 +1,5 @@
 ## Hi there 👋
+![image](https://github.com/user-attachments/assets/c626b247-4ba4-44d0-922f-69acee34235a)
 
 <!--
 **criscoronas/criscoronas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
