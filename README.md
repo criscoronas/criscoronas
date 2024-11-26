@@ -35,11 +35,10 @@
 
 ## Contact Me 📫
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%230A66C2&color=%23363636)](https://www.linkedin.com/in/vegajesús)
-</br>
-[![Gmail](https://img.shields.io/badge/Email%20personal-white?style=for-the-badge&logo=gmail&logoColor=white&label=ccoronas.lozano%40gmail.com&labelColor=black&color=%23EA4335)](mailto:ccoronas.lozano@gmail.com)
-</br>
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com)
+<p align="center">
+<a href="https://www.linkedin.com/in/ask2001/"><img src="https://img.shields.io/badge/-Cristina%20Coronas%20Lozano-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:ccoronas.lozano@gmail.com"><img src="https://img.shields.io/badge/-ccoronas.lozano@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
 
 I hope you enjoy exploring my repository! Thanks for visiting! 👋
 <!--
