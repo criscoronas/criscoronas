@@ -7,7 +7,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💻 &nbsp;I'm currently studying Full Stack Web Development.\
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🍎 &nbsp;Background in Food Technology.\
 🌱 &nbsp;Passionate about sports and nature.
 
