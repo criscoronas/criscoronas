@@ -3,15 +3,15 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hi👋 I'm Cristina Coronas</h2>
 
 
-### 👨🏻‍💻 About Me
+###  About Me 👩‍💻
 
-💻 &nbsp;I'm currently studying Full Stack Web Development.\
-💡 &nbsp;I like to explore new technologies and develop software solutions.\
-🍎 &nbsp;Background in Food Technology.\
-🌱 &nbsp;Passionate about sports and nature.
+🌱 &nbsp;I'm currently studying Full Stack Web Development.\
+🚀 &nbsp;I like to explore new technologies and develop software solutions.\
+📖 &nbsp;Background in Food Technology.\
+🏃‍♀️‍➡️ &nbsp;Passionate about sports and nature.
 
 
-## 🛠 Tech Stack
+##  Tech Stack 💻
 
 ![HTML](https://img.shields.io/badge/HTML-e34c26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) 
@@ -21,7 +21,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white) 
 
 
-## 🧰 Tools 
+##  Tools 🛠️
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![Github](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
@@ -32,7 +32,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 
-## Contact Me 📫
+## Contact Me 📩
 
 <a href="https://www.linkedin.com/in/ask2001/"><img src="https://img.shields.io/badge/-Cristina%20Coronas%20Lozano-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:ccoronas.lozano@gmail.com"><img src="https://img.shields.io/badge/-ccoronas.lozano@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
